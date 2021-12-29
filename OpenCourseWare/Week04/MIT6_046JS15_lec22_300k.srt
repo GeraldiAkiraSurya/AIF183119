@@ -5108,7 +5108,7 @@ q, so when I say both cases,
 
 1089
 00:59:52,100 --> 00:59:55,330
-I mean the pk's and qk's.
+Yang saya maksud pk dan qk.
 
 1090
 00:59:55,330 --> 01:00:02,070
