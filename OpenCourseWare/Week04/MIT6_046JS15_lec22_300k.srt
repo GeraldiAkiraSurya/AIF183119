@@ -5112,8 +5112,8 @@ Yang saya maksud pk dan qk.
 
 1090
 00:59:55,330 --> 01:00:02,070
-I have m raised to
-ed equals m mod p.
+Saya punya m dipangkatkan
+ed sama dengan m modulo p.
 
 1091
 01:00:02,070 --> 01:00:09,320
