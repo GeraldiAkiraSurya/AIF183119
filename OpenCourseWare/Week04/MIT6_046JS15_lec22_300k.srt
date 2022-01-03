@@ -5117,8 +5117,8 @@ ed sama dengan m modulo p.
 
 1091
 01:00:02,070 --> 01:00:09,320
-And m raised to ed is
-the same as m mod q.
+dan m dipangkat pd itu
+sama saja dengan m mod q.
 
 1092
 01:00:09,320 --> 01:00:19,810
